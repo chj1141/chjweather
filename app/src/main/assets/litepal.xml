@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value = "chj weather"/>
+
+    <version value = "1"/>
+
+    <list>
+        <mapping class = "com.chjweather.android.db.Province"/>
+        <mapping class = "com.chjweather.android.db.City"/>
+        <mapping class = "com.chjweather.android.db.County"/>
+    </list>
+</litepal>
